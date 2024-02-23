@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second year software engineering student at Rochester Institute of Technology,<br>I'm currently working on a personal website portfolio and a personalize finance tracker using python,flask,and SQL<br>I am looking for a co-op position for summer/fall 2024
+I'm a second year software engineering student at Rochester Institute of Technology,<br>I'm currently working on a personal website portfolio and a personalize finance tracker using python, flask, and SQL<br>I am looking for a co-op position for summer/fall 2024
 
 
 ## 🌐 Socials:
