@@ -1,5 +1,5 @@
 # About Me:
-I am a third year software engineering student at<br>Rochester Institute of Technology.<br>I am currently looking for a co-op for summer and/or fall of 2025<br><br>Find out more about me at: <a href="https://www.noahvogtli.com">www.noahvogtli.com<a><br><br>I am currently learning javascript and intend on learning<br>the basics of cloud computing in the future
+I am a third year software engineering student at<br>Rochester Institute of Technology.<br>I am currently looking for a co-op for summer and/or fall of 2025<br><br>Find out more about me at: <a href="https://www.noahvogtli.com">www.noahvogtli.com<a><br><br>I am currently learning AWS, and embedded programming with C
 
 
 ## 🌐 Socials:
