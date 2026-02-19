@@ -1,5 +1,5 @@
 # About Me:
-I am a fourth year software engineering student at<br>Rochester Institute of Technology.<br>I am currently looking for a co-op for spring and/or fall of 2026<br><br>Find out more about me at: <a href="https://www.noahvogtli.com">www.noahvogtli.com<a><br>
+I am a fourth year software engineering student at<br>Rochester Institute of Technology.<br><br>Find out more about me at: <a href="https://www.noahvogtli.com">www.noahvogtli.com<a><br>
 
 
 ## 🌐 Socials:
